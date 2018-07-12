@@ -8,6 +8,3 @@ else:
 		print("Vowel")
 	else:
 		print("Consonant")
-	
-	
-	
